@@ -1,0 +1,13 @@
+# Site settings
+title: Rubbish Philosopher
+email: suminb@gmail.com
+description: "This statement is false."
+baseurl: ""
+url: "http://blog.suminb.com"
+#permalink: "/post/:title"
+paginate: 10
+paginate_path: "/post/page/:num"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
