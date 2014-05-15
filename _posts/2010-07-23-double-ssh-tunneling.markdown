@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Double SSH Tunneling
+post_id: '1318'
 categories:
 - Tutorials
 tags:

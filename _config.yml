@@ -8,5 +8,9 @@ permalink: /post/:title
 paginate: 15
 paginate_path: /page/:num
 google_analytics_id: UA-346833-1
+
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-redirect-from
