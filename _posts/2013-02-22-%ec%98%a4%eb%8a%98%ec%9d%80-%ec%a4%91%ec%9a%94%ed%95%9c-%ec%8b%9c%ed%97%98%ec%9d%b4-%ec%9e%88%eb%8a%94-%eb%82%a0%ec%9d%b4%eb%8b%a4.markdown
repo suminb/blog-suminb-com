@@ -2,7 +2,7 @@
 layout: post
 title: 오늘은 중요한 시험이 있는 날이다
 categories:
-- 낚시질 (Prank)
+- Prank
 tags: []
 status: publish
 type: post
