@@ -62,8 +62,7 @@ redirect_from:
 				return $var;
 		}
 	}
-
-_
+^
 
 	base62::encode(61);
 	base62::encode(128);
@@ -74,7 +73,7 @@ _
 	base62::decode(base62::encode(255));
 	base62::decode(base62::encode(33232));
 	base62::decode(base62::encode(2047343643));
-_
+^
 
 	z
 	24

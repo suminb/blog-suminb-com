@@ -22,7 +22,5 @@ redirect_from:
 ---
 I just figured this out today.
 
-<pre><code>
-#!/bin/bash
-echo $(dirname $PWD/$0)
-</code></pre>
+    #!/bin/bash
+    echo $(dirname $PWD/$0)

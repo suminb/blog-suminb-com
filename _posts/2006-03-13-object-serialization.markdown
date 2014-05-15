@@ -21,7 +21,8 @@ author:
 redirect_from:
   - /post/136
 ---
-# Source Code #
+Source Code
+-----------
 
 	import java.io.FileInputStream;
 	import java.io.FileOutputStream;
@@ -68,7 +69,8 @@ redirect_from:
 		}
 	}
 
-# References #
+References
+----------
 
 * [http://java.sun.com/j2se/1.3/docs/guide/serialization/spec/serial-arch.doc2.html](http://java.sun.com/j2se/1.3/docs/guide/serialization/spec/serial-arch.doc2.html)
 
