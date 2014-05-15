@@ -23,18 +23,6 @@ def replace_html_tags(text):
     return text
 
 
-def insert_slug(text):
-    s = re.search(r"title: (.+)\n", text)
-    title = s.group(1)
-
-    index = text.find('\nmeta:\n')
-
-    prefix = text[:index+6]
-    suffix = text[index+6:]
-
-    return '{}\n  slug: {}{}'.format(prefix, title, suffix)
-
-
 def insert_redirect_predicate(text):
     s = re.search(r"post_id: '(\d+)'", text)
     post_id = s.group(1)
@@ -58,7 +46,6 @@ if __name__ == '__main__':
 
     content = read_file(source_file_name)
     content = replace_html_tags(content)
-    content = insert_slug(content)
     content = insert_redirect_predicate(content)
 
     write_file(target_file_name, content)

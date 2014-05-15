@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bayes' Theorem
+post_id: '1861'
 categories:
 - Mathematics
 tags:
@@ -17,12 +18,14 @@ author:
   display_name: Sumin
   first_name: Sumin
   last_name: Byeon
+redirect_from:
+  - /post/1861
 ---
 In this article, I will explain Bayes' Theorem, which is the core of the Bayesian statistics, with a simple example.
 
 First, the theorem is given as:
 
-$$ P(A|B) = \frac{P(B|A)\, P(A)}{P(B)} \text{ where } P(B) = {\sum_i P(B|A_i) P(A_i)} \neq 0 $$
+$$ P(A|B) = \frac{P(B | A)\, P(A)}{P(B)} \text{ where } P(B) = {\sum_i P(B|A_i) P(A_i)} \neq 0 $$
 
 And here is the situation:
 

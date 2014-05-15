@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mathjax Matrix Rendering Issues with WordPress Markdown Plugin
+post_id: '1920'
 categories:
 - Troubleshooting
 tags:
@@ -20,6 +21,8 @@ author:
   display_name: Sumin
   first_name: Sumin
   last_name: Byeon
+redirect_from:
+  - /post/1920
 ---
 Problem
 -------
