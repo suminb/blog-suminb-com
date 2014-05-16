@@ -21,7 +21,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1007
+  - /archives/1007/
 ---
 Introduction
 ------------

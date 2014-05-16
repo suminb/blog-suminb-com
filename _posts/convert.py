@@ -34,7 +34,7 @@ def insert_redirect_predicate(text):
 
     predicate = '''
 redirect_from:
-  - /post/{}'''.format(post_id)
+  - /archieves/{}/'''.format(post_id)
     
     return prefix + predicate + suffix
 

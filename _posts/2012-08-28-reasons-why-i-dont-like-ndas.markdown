@@ -20,7 +20,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1559
+  - /archives/1559/
 ---
 I occasionally write iOS apps for myself and for work. I've been somewhat inactive in iOS app development business for the last several months, mostly because I was busy writing an Android app as a part of my graduate research assistant job. Most of time people contact me about their app business saying they have this *billion-dollor idea* that would change the world. Well, I generally don't believe in this *billion-dollor idea* bullshit. Frankly, I think ideas are almost useless unless someone actually brings that idea to the reality.
 

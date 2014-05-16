@@ -22,7 +22,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1179
+  - /archives/1179/
 ---
 I've been using this shell script for a long time and it works pretty well unless I have really slow network connection. When I upgraded to Snow Leopard from Leopard, the installer got rid of all files under `/Volumes` directory where this script was located. I probably should've put the file under `/usr/bin`. So I'm posting this as a backup just in case I lose the file again, but please feel free to use it if you have `sshfs` installed on your system.
 

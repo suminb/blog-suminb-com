@@ -18,7 +18,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/701
+  - /archives/701/
 ---
 I just figured this out today.
 

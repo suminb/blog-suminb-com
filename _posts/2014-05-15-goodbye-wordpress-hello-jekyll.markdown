@@ -14,11 +14,13 @@ author:
   last_name: Byeon
 ---
 
-내 개인 블로그를 운영하는데 설치형 [WordPress][]를 사용하고 있었는데, 이번에 [Jekyll][]을 사용해서 블로그를 만들어보기로 했다. Jekyll은 정적 웹사이트 생성기다. WordPress 대신 Jekyll을 선택한 이유는
+설치형 [WordPress][]를 사용해서 개인 블로그를 운영하고 있었는데, 이번에 [Jekyll][]을 사용해서 블로그를 만들어보기로 했다. Jekyll은 HTML이나 Markdown 등의 서식으로 작성된 문서들로 정적 웹사이트를 생성해주는 도구다. WordPress 대신 Jekyll을 선택한 이유는
 
-* 블로그 포스트를 작성할 때 WP 에서 제공하는 에디터 대신 텍스트 편집기를 이용해서 Markdown 형식으로 작성한다. 글 작성이 끝나면 WP의 편집기로 복사 & 붙여넣기 하기 때문에 Jekyll을 사용한다면 이 과정을 생략할 수 있다.
-* 2011년에 정체 불명의 공격자들이 PHP 로 작성된 파일 업로더의 취약점을 이용해서 `.htaccess` 파일을 조작하고 백도어를 심어놓는 등 심각한 수준의 공격을 감행한 적이 있다. WP의 아이디/패스워드 사용자 인증보다는 [two-factor authentication][]으로 보호 받는 GitHub 계정과 SSH 공개키 기반의 사용자 인증이 더 안전하지 않을까.
-* [스포카][]에서 일 하면서 나의 Git 사용 능력이 비약적으로 향상됐다.
+* 나는 블로그 포스트를 작성할 때 WP에서 제공하는 에디터 대신 텍스트 편집기를 이용해서 Markdown 형식으로 작성한다. 글 작성이 끝나면 WP의 편집기로 복사 & 붙여넣기 하기 때문에 Jekyll을 사용한다면 이 과정을 생략할 수 있다.
+* 2011년에 정체 불명의 공격자들이 PHP로 작성된 파일 업로더의 취약점을 이용해서 `.htaccess` 파일을 조작하고 백도어를 심어놓는 등 심각한 수준의 공격을 감행한 적이 있다.
+  * 정적 웹사이트의 취약점을 찾아서 공격하는 것은 동적인 웹 애플리케이션을 공격하는 것보다 상대적으로 어려운 일이다.
+  * WP의 아이디/패스워드 사용자 인증보다는 [two-factor authentication][]으로 보호 받는 GitHub 계정과 SSH 공개키 기반의 사용자 인증이 더 안전하지 않을까.
+* [스포카][]에서 일 하면서 나의 Git 사용 능력이 비약적으로 향상됐다. 따라서 블로그 글을 관리하는데 Git을 사용한다고 해도 부담이 없다.
 * [GitHub Pages][]에서 무료로 정적 페이지 호스팅을 제공한다.
 * <div><s>WordPress 는 PHP로 작성되었다.</s> (농담)</div>
 
@@ -50,7 +52,7 @@ WordPress 포스트 변환하기
 
 이제 블로그 포스트를 Jekyll이 이해할 수 있는 형식으로 바꿔야 한다.
 
-Jekyll의 불러오기 도구를 설치하자. WP뿐만 아니라 Tumblr, Joomla, Google Reader, Drupal 을 비롯해서 RSS와 `.csv` 형식도 지원한다. 지원되는 임포터(importer) 목록을 보고 싶으면 [이 페이지](https://github.com/jekyll/jekyll-import/tree/master/lib/jekyll-import/importers)을 보면 된다.
+Jekyll의 불러오기 도구를 설치하자. WP뿐만 아니라 Tumblr, Joomla, Google Reader, Drupal 을 비롯해서 RSS와 `.csv` 형식도 지원한다. 지원되는 임포터(importer) 목록을 보고 싶으면 [이 페이지](https://github.com/jekyll/jekyll-import/tree/master/lib/jekyll-import/importers)를 보면 된다.
 
     gem install jekyll-import
 
@@ -124,7 +126,7 @@ WP에서 쓰던 퍼머링크(permalink)는 `/archieves/${post_id}` 형식이었�
 [포스트 변환 스크립트][convert.py]에 의해서 포스트의 [YAML front-matter][] 부분에 다음과 같이 `redirect_from` 항목이 들어가게 된다. WP 포스트를 변환할 때 `post_id` 값을 저장하도록 한 이유가 바로 이것이다.
 
     redirect_from:
-      - /post/1234
+      - /archives/1234/
 
 
 MathJax 설치
@@ -169,13 +171,21 @@ Google Analytics 설치
 
 위의 코드 조각은 [jekyll-import의 코드](https://github.com/jekyll/jekyll-import/blob/master/site/_includes/analytics.html)에서 가져온 것이다. 그리고 나서 `_layouts/default.html` 파일의 아래쪽에 `analytics.html` 파일을 포함하도록 만들었다.
 
+    {% raw %}
     {% include analytics.html %}
+    {% endraw %}
 
 
 Disqus 댓글 플러그인 설치
 ---------------------
 
 `_layouts/post.html`
+
+
+페이스북, 트위터 등 SNS 플러그인 설치
+-----------------------------
+
+라이크 버튼이 빠지면 섭섭하지.
 
 
 마무리

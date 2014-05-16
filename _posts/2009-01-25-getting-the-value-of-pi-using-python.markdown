@@ -20,7 +20,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/894
+  - /archives/894/
 ---
 I barely started using Python today. I made a piece of code that calculates the value of PI for practice. You're welcome to criticize, but *politely*, my first ever Python code.
 

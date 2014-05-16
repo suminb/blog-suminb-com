@@ -18,7 +18,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1501
+  - /archives/1501/
 ---
 I know I complain a lot for everything, but I really think this is worth complaining.
 

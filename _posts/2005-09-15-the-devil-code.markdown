@@ -18,7 +18,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/4
+  - /archives/4/
 ---
 ~~~
 $ :(){ :|:& };

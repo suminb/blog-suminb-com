@@ -22,7 +22,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1920
+  - /archives/1920/
 ---
 Problem
 -------

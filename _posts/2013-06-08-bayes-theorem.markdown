@@ -19,7 +19,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1861
+  - /archives/1861/
 ---
 In this article, I will explain Bayes' Theorem, which is the core of the Bayesian statistics, with a simple example.
 

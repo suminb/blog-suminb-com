@@ -17,7 +17,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/71
+  - /archives/71/
 ---
 ###### /WEB-INF/tlds/iterator.tld
 

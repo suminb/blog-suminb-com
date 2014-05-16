@@ -21,7 +21,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1222
+  - /archives/1222/
 ---
 Today's programming contest, sponsored by Jude Nelson, was to make a 4-function calculator using PyMT. There were some extra credits for additional features such as support for trigonometric functions, parenthesis for changing orders of operations, and so on.
 

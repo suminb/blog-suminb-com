@@ -18,7 +18,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1889
+  - /archives/1889/
 ---
 One of the goals of [Better Translator][better-translator] is to build a large database of natural language translation samples, which may ultimately lead us to develop our own translation engine rather than relying on Google Translate.
 

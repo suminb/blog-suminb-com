@@ -24,7 +24,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1327
+  - /archives/1327/
 ---
 [Doodle](http://doodle.com) is a great tool for organizing meetings and scheduling events, especially when attendees have largely different schedules.
 

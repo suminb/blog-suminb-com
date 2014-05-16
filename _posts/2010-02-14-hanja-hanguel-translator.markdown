@@ -21,7 +21,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1230
+  - /archives/1230/
 ---
 [한자-한글 변환기][link] (<http://hanja.suminb.com>)
 

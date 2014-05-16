@@ -27,7 +27,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1200
+  - /archives/1200/
 ---
 It's almost the end of the year 2009. This year is special because I've never dealt with so many languages in a year. Objective C, Python, Java, C++, PHP, JavaScript, Haskell, Prolog, Ruby, C#, and probably more. Some of them were for work, some for school, and others were for my personal projects. I have plenty of stories for each language, but I'll try to keep them brief.
 

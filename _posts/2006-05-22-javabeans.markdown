@@ -19,7 +19,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/301
+  - /archives/301/
 ---
 # What are JavaBeans? #
 JavaBeans are software components written in the Java programming language. Well, this kind of explanation probably would not be helpful.

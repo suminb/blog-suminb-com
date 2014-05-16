@@ -21,7 +21,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/911
+  - /archives/911/
 ---
 So, I made another version of PI calculation code with multithreading, expecting faster calculations since my MacBook has two processor cores. However, it works slower than the sequential version. I don't know wtf is going on.
 

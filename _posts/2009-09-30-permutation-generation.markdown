@@ -22,7 +22,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1119
+  - /archives/1119/
 ---
 Someone asked me how to generate all possible permutations out of a given set and I thought it was kind of interesting to think about it. I was able to come up with a general solution pretty easily (thanks to all the algorithm and math classes I took!) and I would like to share it with everyone.
 

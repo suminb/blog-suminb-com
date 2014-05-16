@@ -18,7 +18,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/378
+  - /archives/378/
 ---
 홍민희군과의 대화 중 아이디어를 얻어 이것을 만들게 되었다.
 

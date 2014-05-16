@@ -19,7 +19,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/310
+  - /archives/310/
 ---
 서론
 ----

@@ -20,7 +20,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1811
+  - /archives/1811/
 ---
 시작하기 전에 만화를 한 편 보자.
 

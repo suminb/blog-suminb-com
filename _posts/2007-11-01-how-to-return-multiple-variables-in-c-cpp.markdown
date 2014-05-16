@@ -19,7 +19,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/683
+  - /archives/683/
 ---
 There are several ways to get multiple variables from a function in C/C++. Remember C is a pass-by-value language and there is no exception.
 

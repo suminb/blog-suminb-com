@@ -19,7 +19,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/57
+  - /archives/57/
 ---
 응용프로그램이 사용하는 메모리 영역은 크게 스택(stack)과 힙(heap)으로 나눌 수 있다.
 

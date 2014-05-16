@@ -20,7 +20,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1196
+  - /archives/1196/
 ---
 Matrix manipulation by hand is often times pain in the neck when it comes to anything bigger than 2 by 2 matrices as it involves a quite amount of arithmetic operations. Well, I've got an Intel Core 2 Duo processor and Python. No reason not to take advantage of them ;-)
 

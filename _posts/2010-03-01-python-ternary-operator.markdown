@@ -19,7 +19,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1236
+  - /archives/1236/
 ---
 I've been using a tuple as a substitution of a ternary operator in Python. Even though it is not exactly a ternary operator and has some drawbacks, but it works fine in most cases.
 

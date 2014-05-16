@@ -19,7 +19,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/597
+  - /archives/597/
 ---
 CS345 이번 과제는 여러가지 해시 알고리즘을 직접 구현하는것이었다.
 

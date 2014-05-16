@@ -18,7 +18,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1883
+  - /archives/1883/
 ---
 I encountered a very strange error message that I have never come across before. I was transferring a large file (a few gigabytes) from a computer to another using `rsync`.
 

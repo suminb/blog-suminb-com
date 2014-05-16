@@ -25,7 +25,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/1729
+  - /archives/1729/
 ---
 Imagine you have about 25 lecture notes to download. The files are in a PDF format and the links are available on your class web site. What would you do?
 

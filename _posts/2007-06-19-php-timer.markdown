@@ -20,7 +20,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/659
+  - /archives/659/
 ---
 ## Introduction
 

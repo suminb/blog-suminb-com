@@ -19,7 +19,7 @@ author:
   first_name: Sumin
   last_name: Byeon
 redirect_from:
-  - /post/600
+  - /archives/600//
 ---
 PHP 에선 다음과 같은 다소 황당한 문법도 통한다.
 
