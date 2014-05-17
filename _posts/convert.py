@@ -34,10 +34,13 @@ def insert_redirect_predicate(text):
 
     predicate = '''
 redirect_from:
-  - /archieves/{}/'''.format(post_id)
+  - /archives/{}/'''.format(post_id)
     
     return prefix + predicate + suffix
 
+
+def insert_absolute_url(text):
+    return text.replace('src="/wp-content', 'src="http://blog.suminb.com/wp-content')
 
 if __name__ == '__main__':
     source_file_name = sys.argv[1]
@@ -47,5 +50,6 @@ if __name__ == '__main__':
     content = read_file(source_file_name)
     content = replace_html_tags(content)
     content = insert_redirect_predicate(content)
+    content = insert_absolute_url(content)
 
     write_file(target_file_name, content)
