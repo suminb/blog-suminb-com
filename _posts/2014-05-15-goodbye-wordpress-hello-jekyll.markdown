@@ -246,6 +246,12 @@ Disqus 댓글 플러그인 설치
 `disqus_identifier` 문제가 해결되지 않는다면 예전 댓글 페이지들을 새 주소로 마이그레이션 해야 되는데[^disqus_migration], 이것도 나름 귀찮은 일이 될 것 같으니 웬만하면 `disqus_identifier`를 이용해서 해결할 계획이다.
 
 
+검색창 달기
+--------
+
+정적 웹사이트인만큼 자체적으로 검색 기능을 제공하는 일이 쉽지 않다. 그래서 검색 기능은 구글에게 위탁하기로 했다. [Google Custom Search Engine][] 서비스를 이용하면 간편하게 특정 사이트 내에서만 검색 되는 검색창을 만들 수 있다.
+
+
 앞으로 할 일
 ---------
 
@@ -269,6 +275,7 @@ Disqus 댓글 플러그인 설치
 [GitHub Pages]: https://pages.github.com
 [WordPress]: http://wordpress.org
 [Jekyll]: http://jekyllrb.com
+[Google Custom Search Engine]: https://www.google.com/cse/
 [two-factor authentication]: http://en.wikipedia.org/wiki/Two-step_verification
 [jekyll-redirect-form]: https://github.com/jekyll/jekyll-redirect-from
 [YAML front-matter]: http://jekyllrb.com/docs/frontmatter/
