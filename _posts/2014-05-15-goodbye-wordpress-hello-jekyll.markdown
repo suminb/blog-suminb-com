@@ -179,19 +179,54 @@ Google Analytics 설치
 Disqus 댓글 플러그인 설치
 ---------------------
 
-`_layouts/post.html`
+포스트 페이지의 레이아웃을 정의하는 `_layouts/post.html` 파일을 수정하면 된다. `disqus_identifier` 값을 지정해주면 페이지의 URL과 관계 없이 예전에 쓰던 댓글 페이지를 그대로 불러올 수 있다고 공식 문서에 나와있지만[^disqus_identifier], 작동이 되지 않는것 같다. 이 문제를 해결할때 까지는 당분간 댓글을 닫아놔야 할 것 같다.
+
+    {% raw %}
+    {% if site.disqus %}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname = 'blog-suminb-com';
+      {% if page.meta.dsq_thread_id %}
+      var disqus_identifier = '{{ page.meta.dsq_thread_id }}';
+      {% endif %}
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script');
+          dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0]
+            || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the
+        <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by
+        <span class="logo-disqus">Disqus</span></a>
+    {% endif %}
+    {% endraw %}
+
+`disqus_identifier` 문제가 해결되지 않는다면 예전 댓글 페이지들을 새 주소로 마이그레이션 해야 되는데[^disqus_migration], 이것도 나름 귀찮은 일이 될 것 같으니 웬만하면 `disqus_identifier`를 이용해서 해결할 계획이다.
 
 
-페이스북, 트위터 등 SNS 플러그인 설치
------------------------------
+앞으로 할 일
+---------
 
-라이크 버튼이 빠지면 섭섭하지.
+꽤 많은 작업을 했지만, 아직 할 일이 더 남았다.
+
+1. 페이스북 라이브, 트윗 버튼 설치
+1. 첨부 파일 마이그레이션
+1. 스타일시트 수정 (혹은 새로 만들기) - 지금은 일단 Jekyll의 기본 디자인을 쓰고 있지만, 천천히 바꿔 나갈 생각이다.
+1. 도메인 CNAME 수정 - 지금까지는 내 서버에서 운영했지만, 앞으로는 GitHub Pages에서 운영할 계획이다.
 
 
 마무리
 ----
 
-처음에 생각했던 것과는 다르게 굉장히 거창하고 장대한 작업이 되었다. 그리고 구글 애드센스 광고는 더이상 달지 않기로 했다.
+처음에 생각했던 것과는 다르게 굉장히 거창하고 장대한 작업이 되었다. 겉으로 보기엔 간단한 일이라도 실제로 해보면 일의 복잡도가 처음 예상보다 훨씬 높고 숨어있는 문제들이 많다는걸 다시 한 번 깨닫게 됐다.
+
+그리고 구글 애드센스 광고는 더이상 달지 않기로 했다. 어차피 유의미한 수익이 나올만큼 많은 방문자를 보유한 것도 아닌데 블로그의 미관을 해치는 광고를 넣는 일이 부질없다고 생각했다.
 
 
 [스포카]: http://spoqa.com
@@ -202,3 +237,6 @@ Disqus 댓글 플러그인 설치
 [jekyll-redirect-form]: https://github.com/jekyll/jekyll-redirect-from
 [YAML front-matter]: http://jekyllrb.com/docs/frontmatter/
 [convert.py]: https://github.com/suminb/suminb.github.io/blob/master/_posts/convert.py
+
+[^disqus_identifier]: <http://help.disqus.com/customer/portal/articles/472098-javascript-configuration-variables#disqus_identifier>
+[^disqus_migration]: <http://help.disqus.com/customer/portal/articles/286778-migration-tools>
