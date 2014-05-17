@@ -129,6 +129,41 @@ WP에서 쓰던 퍼머링크(permalink)는 `/archieves/${post_id}` 형식이었�
       - /archives/1234/
 
 
+Pagination
+----------
+
+모든 글이 한 페이지에 나열되어 있으면 너무 길어지니까 여러 페이지에 나누는 작업도 필요하다. [Jekyll의 공식 문서](http://jekyllrb.com/docs/pagination/)를 참고해서 만들었다. 사실 참고했다기보다는 거의 복사 & 붙여넣기 했다. `index.html` 파일에 포스트 보여지는 부분 아래쪽에 다음과 같은 코드를 붙여준다.
+
+    {% raw %}
+    <!-- Pagination links -->
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    {% else %}
+      <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <em>{{ page }}</em>
+      {% elsif page == 1 %}
+        <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% else %}
+      <span>Next &raquo;</span>
+    {% endif %}
+    </div>
+    {% endif %}
+    {% endraw %}
+
+
 MathJax 설치
 -----------
 
@@ -219,7 +254,7 @@ Disqus 댓글 플러그인 설치
 1. 첨부 파일 마이그레이션
 1. 스타일시트 수정 (혹은 새로 만들기) - 지금은 일단 Jekyll의 기본 디자인을 쓰고 있지만, 천천히 바꿔 나갈 생각이다.
 1. 도메인 CNAME 수정 - 지금까지는 내 서버에서 운영했지만, 앞으로는 GitHub Pages에서 운영할 계획이다.
-
+1. 포스트 리다이렉션 할 때 HTTP 302 메세지 내보내기
 
 마무리
 ----
