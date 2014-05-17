@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WordPress 에서 Jekyll 로 
+title: WordPress 에서 Jekyll 로
 categories:
 - General
 tags:
@@ -8,6 +8,7 @@ tags:
 type: post
 published: true
 meta:
+  disqus_identifier: 29543f83c99531881795377465fc56d45cfcfb6b
 author:
   email: suminb@gmail.com
   first_name: Sumin
