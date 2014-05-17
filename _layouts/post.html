@@ -17,10 +17,11 @@ layout: default
   {% if site.disqus %}
   <div id="disqus_thread"></div>
   <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'blog-suminb-com'; // required: replace example with your forum shortname
     {% if page.meta.dsq_thread_id %}
-    var disqus_identifier = '{{ page.meta.dsq_thread_id }}';
+    var disqus_url = 'http://blog.suminb.com/archives/{{ page.post_id }}';
+    {% else %}
+    var disqus_identifier = '{{ page.title }}';
     {% endif %}
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
