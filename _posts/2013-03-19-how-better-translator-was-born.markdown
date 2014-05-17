@@ -47,7 +47,7 @@ redirect_from:
 
 며칠 후 B군은 또 페이스북 뉴스피드를 뒤적거리다가 유능한 넥슨 게임 개발자인 [이흥섭](http://subl.ee)군의 친구분께서 내놓으신 흥미로운 제안을 발견했다.
 
-[caption id="attachment_1795" align="aligncenter" width="480"]<a href="/wp-content/uploads/2013/03/sublees-friend.png"><img src="/wp-content/uploads/2013/03/sublees-friend-480x149.png" alt="흥섭이 친구분의 솔깃한 제안" width="480" height="149" class="size-medium wp-image-1795" /></a> 흥섭이 친구분의 솔깃한 제안[/caption]
+<a href="http://blog-old.suminb.com/wp-content/uploads/2013/03/sublees-friend.png"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/sublees-friend-480x149.png" alt="흥섭이 친구분의 솔깃한 제안" width="480" height="149" class="size-medium wp-image-1795" /></a>
 
 한국어-일본어-영어 번역 과정을 자동화 할 수 있지 않겠느냐는 친구의 말에 이흥섭은 짧고 간결한 답변을 남겼다.
 
@@ -71,7 +71,7 @@ B군의 취미이고 특기이자 3대 삶의 낙 중의 하나가 바로 자랑
 
 그 후 [더 나은 번역기][Translator]는 트위터, [블로그 글][blog], [카라 팬 페이지][Karaboard], [레딧(Reddit)][Reddit], [네이버 카페][Naver-cafe] 등 여러곳에 언급되면서 전 세계로 뻗어나가기 시작했다.
 
-[caption id="attachment_1793" align="aligncenter" width="480"]<a href="/wp-content/uploads/2013/03/worldwide-impact.png"><img src="/wp-content/uploads/2013/03/worldwide-impact-480x271.png" alt="전 세계로 뻗어 나가는 더 나은 번역기" width="480" height="271" class="size-medium wp-image-1793" /></a> 전 세계로 뻗어 나가는 더 나은 번역기[/caption]
+<a href="http://blog-old.suminb.com/wp-content/uploads/2013/03/worldwide-impact.png"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/worldwide-impact-480x271.png" alt="전 세계로 뻗어 나가는 더 나은 번역기" width="480" height="271" class="size-medium wp-image-1793" /></a>
 
 B군은 당분간 새로운 기능 추가 대신 여러가지 [알려진 문제점들](https://github.com/suminb/translator/issues)을 해결하고 서비스의 질을 개선하는데 주력할 계획이다.
 

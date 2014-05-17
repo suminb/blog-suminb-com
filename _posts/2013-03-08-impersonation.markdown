@@ -49,7 +49,7 @@ Network Interface Card (NIC)
 
 네트워크 인터페이스 카드는 데이터 링크 계층에서 노드(node)간 데이터 전송을 담당하는 중요한 요소중 하나이다. 한국에서는 랜(LAN) 카드라고 불리기도 하며, 가장 흔하게 볼 수 있는 2계층 프로토콜이 이더넷인 만큼 이더넷 카드라고 부르기도 한다[^3]. 각 네트워크 카드에는 제조사로부터 할당된 고유의 주소가 있는데, 이를 MAC(Media Access Control) 주소라고 한다. MAC 주소는 48비트로 구성되어있는데, 앞 24비트는 제조사의 고유 번호이고, 뒤 24비트는 제품마다 할당된 고유 번호이다.
 
-[caption id="attachment_1762" align="aligncenter" width="480"]<a href="http://blog.suminb.com/wp-content/uploads/2013/03/Network_card.jpg"><img src="http://blog.suminb.com/wp-content/uploads/2013/03/Network_card-480x356.jpg" alt="보통 이렇게 생겼다. 최근에 나오는 카드들은 메인 보드와 일체형인 경우가 많다." width="480" height="356" class="size-medium wp-image-1762" /></a> 보통 이렇게 생겼다. 최근에 나오는 카드들은 메인 보드와 일체형인 경우가 많다.[^4][/caption]
+<a href="http://blog.suminb.com/wp-content/uploads/2013/03/Network_card.jpg"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/Network_card-480x356.jpg" alt="보통 이렇게 생겼다. 최근에 나오는 카드들은 메인 보드와 일체형인 경우가 많다." width="480" height="356" class="size-medium wp-image-1762" /></a>
 
 예를 들어서 인텔에서 만든 네트워크 카드는 다음과 같은 주소를 갖는다.
 

@@ -13,7 +13,7 @@ tags:
 - Enigma
 - ROT-13
 - RSA
-status: publish
+- korean
 type: post
 published: true
 meta:
@@ -115,7 +115,7 @@ $$ R_{13}(R_{13}(x)) = x \text{ where } x \in \Sigma $$
 
 현대적인 컴퓨터가 개발 되기 전, 기계적인 암호화 방식도 개발되었었다. 대표적으로 이니그마(Enigma)라는 이름을 가진 기계가 있는데, 이는 세계 2차 대전 당시 독일군이 적군의 눈을 피해 비밀 통신을 하는데 사용됐었다. 선택적으로 전류를 흐르게 할 수 있는 여러개의 로터를 이용한 방식인데, 이 로터들의 처음 위치에 따라 전류가 흐르는 통로가 결정된다. 
 
-[caption id="attachment_1838" align="aligncenter" width="480"]<a href="http://en.wikipedia.org/wiki/File:Enigma-rotor-stack.jpg"><img src="/wp-content/uploads/2013/03/enigma-480x360.jpg" alt="이니그마의 로터" width="480" height="360" class="size-medium wp-image-1838" /></a> 이니그마의 로터[/caption]
+<a href="http://en.wikipedia.org/wiki/File:Enigma-rotor-stack.jpg"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/enigma-480x360.jpg" alt="이니그마의 로터" width="480" height="360" class="size-medium wp-image-1838" /></a>
 
 이니그마의 암호를 깨려는 수 차례의 시도가 있었지만 모두 실패로 돌아갔었기에 이니그마는 한동안 매우 신뢰할만한 기계라고 여겨졌었다. 하지만 1930년대에 세 명의 폴란드 암호 전문가들이 초기의 이니그마 암호를 깨는데에 성공했다. 이 기술은 1939년, 독일이 폴란드를 침략하기 두 달 전에 영국 정부로 넘어갔다. 영국은 폴란드 전문가들의 기술을 개선하여 마침내 세계 2차 대전 기간 동안 독일군의 비밀 메세지들을 해독하는데 성공하게 된다.
 
@@ -215,7 +215,7 @@ $$ \frac{\log(2^{256})}{\log(10)} \approx 77.1 $$
 앨리스->밥: 암호문 전송
 밥->밥: 비밀키를 이용하여 복호화
 -->
-[caption id="attachment_1841" align="aligncenter" width="388"]<img src="/wp-content/uploads/2013/03/sequence.png" alt="공개키 기반 암호화를 이용한 통신 과정" width="388" height="369" class="size-full wp-image-1841" /> 공개키 기반 암호화를 이용한 통신 과정[/caption]
+<img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/sequence.png" alt="공개키 기반 암호화를 이용한 통신 과정" width="388" height="369" class="size-full wp-image-1841" />
 
 여기서 중요하게 짚고 넘어가야 할 점은 암호화 키와 복호화 키가 서로 다르다는 것이다. 밥이 앨리스에게 암호화 키를 전송하는 과정에서 키가 제 3자에게 노출된다고 하더라도, 앨리스가 밥에게 보낸 메세지를 해독하는 일은 불가능하다. 또한, 보안 통신에 참여하는 인원수가 늘어난다고 해도 밥이 관리해야 할 키의 개수는 단 한개뿐이다.
 
@@ -254,14 +254,14 @@ $$ m \equiv c^d $$
 
 암호학은 우리 생활 곳곳에 숨어있다. 아마존에서 물건을 주문할 때에도 필요하고, 회사에서 직원들에게 매달 월급을 줄 때에도 필요하다. 이동통신사들의 GSM, CDMA 통신망에도, 은행 ATM 기계의 통신망에서도 암호학의 도움 없이는 안전한 통신을 보장하지 못한다. 매일같이 사용하는 이메일과 페이스북 계정의 보안, 우리가 가지고 있는 은행 계좌의 안전, 국가 안보 등 이 모든 것이 공개키를 구성하는 두 개의 소수를 찾는데 얼마나 오랜 시간이 걸리는지에 달렸다고 해도 과언이 아니다.
 
-[caption id="attachment_1842" align="aligncenter" width="480"]<a href="/wp-content/uploads/2013/03/chase.png"><img src="/wp-content/uploads/2013/03/chase-480x354.png" alt="체이스 은행 보안 인증서" width="480" height="354" class="size-medium wp-image-1842" /></a> 체이스 은행 보안 인증서[/caption]
+<a href="http://blog-old.suminb.com/wp-content/uploads/2013/03/chase.png"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/chase-480x354.png" alt="체이스 은행 보안 인증서" width="480" height="354" class="size-medium wp-image-1842" /></a>
 
 사실, 현존하는 암호화 알고리즘은 충분한 시간과 자원이 주어진다면 무력화 시킬 수 있다. 그럼에도 불구하고 현재 널리 사용되고 있는 암호화 알고리즘들이 안전하다고 판단되는 이유는 무엇일까? 만약 누군가가 천문학적인 비용을 투자해서 앨리스가 밥에게 보낸 암호화된 메세지를 100년만에 깼다고 가정해보자. 그 메세지의 내용은 100년 후의 누군가에게 가치가 있을까? 메세지의 내용이 앨리스의 신용카드 번호라고 해도 그건 더이상 이용 가치가 없는 정보이다. 대부분의 신용카드는 3-5년을 주기로 만료되기 때문이다. 미국 정부에서 다루는 기밀 정보(classified information)도 기밀을 유지하는 유효 기간이 있다. 기본적으로는 25년의 유효 기간을 갖지만, 때에 따라서는 그것보다 길 수도 있다. 유효 기간이 지나면 기밀 상태가 해제되어 일반에 공개된다.[^10] 이처럼 우리가 다루는 정보는 (특별한 경우를 제외하고는) 일정 시간이 지나면 그 가치를 잃게 되어있는데, 이런 이유로 일정 시간 안에 암호화된 메세지를 해독하는 일이 불가능하면 그 암호화는 현실적으로(practically) 안전하다고 말할 수 있는 것이다.
 
 도전 과제
 --------
 
-[message.enc](/wp-content/uploads/2013/03/message.enc)
+[message.enc](http://blog-old.suminb.com/wp-content/uploads/2013/03/message.enc)
 
 이 첨부 파일에는 $40짜리 스타벅스 기프트 카드가 숨겨진 위치가 쓰여있다. 메세지를 해독한 사람은 카드를 가져가도 좋다. 카드를 한 장 밖에 준비하지 못한 관계로 선착순 한 명만 카드를 가져갈 수 있고, 제한 시간은 이 글이 출판된 날로부터 180일이다.
 

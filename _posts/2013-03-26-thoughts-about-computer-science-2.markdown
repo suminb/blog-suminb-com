@@ -5,8 +5,8 @@ post_id: '1811'
 categories:
 - Computer Science
 - 개똥 철학 (Rubbish Philosophy)
-tags: []
-status: publish
+tags:
+- korean
 type: post
 published: true
 meta:
@@ -24,7 +24,7 @@ redirect_from:
 ---
 시작하기 전에 만화를 한 편 보자.
 
-[caption id="attachment_1812" align="aligncenter" width="242"]<a href="http://comic.naver.com/webtoon/detail.nhn?titleId=335885&no=476&weekday=wed"><img src="/wp-content/uploads/2013/03/gauss-242x480.jpg" alt="가우스전자 473화" width="242" height="480" class="size-medium wp-image-1812" /></a> 가우스전자 473화[/caption]
+<a href="http://comic.naver.com/webtoon/detail.nhn?titleId=335885&no=476&weekday=wed"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/gauss-242x480.jpg" alt="가우스전자 473화" width="242" height="480" class="size-medium wp-image-1812" /></a>
 
 그림 속 인물의 표정을 봤을 때 농담조로 얘기하는것 같기는 하지만, 많은 경우에 "***인데 그것도 몰라?" 와 같은 말은 듣는 사람을 불쾌하게 한다.
 
@@ -42,7 +42,7 @@ redirect_from:
 
 아마도 대부분의 사람들이 '컴퓨터' 하면 떠올리는 이미지는 이런 것이 아닐까 싶다.
 
-[caption id="attachment_1813" align="aligncenter" width="480"]<a href="http://www.dell.com/content/topics/topic.aspx/global/shared/windows7/upgrade/index?c=us&amp;l=en&amp;cs=19"><img src="/wp-content/uploads/2013/03/dell-laptops-480x247.jpg" alt="비전문가들이 생각하는 컴퓨터의 모습" width="480" height="247" class="size-medium wp-image-1813" /></a> 비전문가들이 생각하는 컴퓨터의 모습[/caption]
+<a href="http://www.dell.com/content/topics/topic.aspx/global/shared/windows7/upgrade/index?c=us&amp;l=en&amp;cs=19"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/dell-laptops-480x247.jpg" alt="비전문가들이 생각하는 컴퓨터의 모습" width="480" height="247" class="size-medium wp-image-1813" /></a>
 
 분명히 컴퓨터는 맞지만 컴퓨터 과학에서 말하는 컴퓨터와는 조금 거리가 있다.
 
@@ -57,7 +57,7 @@ redirect_from:
 
 그럼 사람들이 컴퓨터를 이렇게 이해하고 있으면 컴퓨터 과학이라는 단어가 낳는 여러가지 오해들을 해결할 수 있을까? 안타깝지만 이정도로는 아직 부족하다. 그럼 컴퓨터 과학에서 말하는 컴퓨터란 도대체 무엇일까.
 
-[caption id="attachment_1823" align="aligncenter" width="280"]<a href="/wp-content/uploads/2013/03/win7.jpg"><img src="/wp-content/uploads/2013/03/win7.jpg" alt="비전문가들이 생각하는 컴퓨터 책의 전형적인 예" width="280" height="335" class="size-full wp-image-1823" /></a> 비전문가들이 생각하는 컴퓨터 책의 전형적인 예[/caption]
+<a href="/wp-content/uploads/2013/03/win7.jpg"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/win7.jpg" alt="비전문가들이 생각하는 컴퓨터 책의 전형적인 예" width="280" height="335" class="size-full wp-image-1823" /></a>
 
 컴퓨터의 수학적 정의
 --------
@@ -78,7 +78,7 @@ $$ M= \left \langle Q, \Gamma, b, \Sigma , \delta , q_{0}, F \right \rangle $$
 
 컴퓨터 과학은 이러한 기초적인 컴퓨터 모델에 기초하여 어떤 문제를 해결할 수 있는 일련의 방법을 제시하는 학문이다. 윈도우 7에서 Nvidia 그래픽 카드 드라이버를 설치하는 법이나 하드디스크를 초기화 하는 방법 따위를 가르치는 학문이 아니다. 
 
-[caption id="attachment_1815" align="aligncenter" width="480"]<a href="/wp-content/uploads/2013/03/discrete-math.jpg"><img src="/wp-content/uploads/2013/03/discrete-math-480x290.jpg" alt="초보적인 수준의 컴퓨터 과학 책" width="480" height="290" class="size-medium wp-image-1815" /></a> 초보적인 수준의 컴퓨터 과학 책[/caption]
+<a href="/wp-content/uploads/2013/03/discrete-math.jpg"><img src="http://blog-old.suminb.com/wp-content/uploads/2013/03/discrete-math-480x290.jpg" alt="초보적인 수준의 컴퓨터 과학 책" width="480" height="290" class="size-medium wp-image-1815" /></a>
 
 [구글 지도](http://maps.google.com)에 출발지와 목적지를 입력하면 어떻게 최단 경로를 계산하는지 의문을 가져본 적이 있는가? 아니면 3차원 물체를 어떻게 평면인 스크린에 입체적으로 보이도록 투영(projection)하는지 알고 있는가? 그것도 아니면 [아마존](http://www.amazon.com)이 어떻게 여러분이 구입 할만한 물건들을 골라서 추천 상품 목록을 보여주는지 궁금한가? 이 모든 것이 컴퓨터 과학을 응용한 기술들이다. 그래프 이론(graph theory), 컴퓨터 그래픽(computer graphics), 머신 러닝(machine learning)은 모두 컴퓨터 과학의 한 분야로서 우리 생활 깊숙히 스며들어있다.
 
