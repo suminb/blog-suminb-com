@@ -60,6 +60,10 @@ a:visited { color: #205caa; }
   z-index: 1;
 }
 
+.site-description {
+  font-size: 9pt;
+}
+
 .site-nav {
   float: right;
   line-height: 56px;
@@ -411,4 +415,8 @@ img.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+p.license {
+  font-size: 8pt;
 }
