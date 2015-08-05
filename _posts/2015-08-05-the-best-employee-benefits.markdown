@@ -31,4 +31,6 @@ author:
 
 그런 넥슨에서 전문연구원을 모집하고 있다고 합니다. 그것도 네 명 씩이나. 이래도 지원 안 하실건가요? 정말??
 
-[지원서 내기](https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20140023)
+<div style="font-size: 24pt; font-weight: bold; text-align: center;">
+  <a href="https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&amp;reNo=20140023">지원서 내기</a>
+</div>
