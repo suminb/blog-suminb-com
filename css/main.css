@@ -411,6 +411,16 @@ a:visited { color: #205caa; }
 /* User defined */
 /* ------------ */
 
+div.image-caption {
+  text-align: center;
+  color: gray;
+  font-size: 0.8em;
+}
+
+div.page-content img {
+  max-width: 100%;
+}
+
 img.center {
   display: block;
   margin-left: auto;
