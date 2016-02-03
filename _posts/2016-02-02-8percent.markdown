@@ -297,11 +297,11 @@ API 를 통한 다양한 상호작용까지는 아니더라도, 나의 투자 �
 [^statistics]: <https://8percent.kr/info/introduction/statistics/>
 [^insurance]: <https://8percent.kr/safe_fund/>
 [^FAQ]: <https://8percent.kr/board/faq/>
-[^ppss]: <http://ppss.kr/archives/56683>
+[^ppss]: 리, 승환. "['8퍼센트' 이효진 대표 인터뷰.](http://ppss.kr/archives/56683)" ㅍㅍㅅㅅ. N.p., 17 Sept. 2015. Web. 02 Feb. 2016.
 [^loan_calc]: 무슨말인지 잘 모르겠다면 [대출이자 계산기](http://best79.com/loan/)를 이용해서 직접 계산해보고 비교해보자.
 [^manual_deposit]: 예전에는 은행 거래 내역에 '타행PC'로 나왔었는데, 이것으로 추측하건대 상환금 입금을 수동으로 처리했던 것으로 보인다.
 [^ceiling]: 추가적으로, 채권은 주식과 다르게 수익률 면에서 천장은 있지만 바닥은 없는 금융 상품이라 채권 비중을 높이는 것이 올바른 선택인지도 잘 모르겠다.
 [^1]: 하지만 미국의 서브프라임 모기지론 사태 같은 것을 보면 모든 금융기관이 일을 제대로 하는 것은 아니라는 생각이 든다.
-[^2]: <https://jmagazine.joins.com/forbes/view/307981>
+[^2]: 최, 영진. "[P2P 대출서비스 선보인 이효진 8퍼센트 대표.](https://jmagazine.joins.com/forbes/view/307981)" 중앙시사매거진. 포브스코리아, 13 Aug. 2015. Web. 2 Feb. 2016.
 
 [The Big Short]: http://www.imdb.com/title/tt1596363/
