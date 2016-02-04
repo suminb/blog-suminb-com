@@ -156,7 +156,7 @@ redirect_from:
 http://0pne.us/Forum/ 의 HTML 코드가 출력됩니다.
 
 # GUI Version
-![socket.png](/wp-content/uploads/2006/05/socket.png)
+![socket.png](/attachments/2006/java-socket-programming-basics/socket.png)
 
 # 그런데 스트림은 왜 쓰는것일까요?
 자바에서 소켓을 이용한 통신은 일반적으로
