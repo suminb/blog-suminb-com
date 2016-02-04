@@ -4,7 +4,7 @@ email: suminb@gmail.com
 description: "This statement is false."
 baseurl: ""
 url: "http://blog.suminb.com"
-permalink: /post/:title
+permalink: /post/:title/
 paginate: 15
 paginate_path: /page/:num
 google_analytics_id: UA-346833-1
