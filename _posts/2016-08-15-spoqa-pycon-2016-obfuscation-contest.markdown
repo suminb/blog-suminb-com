@@ -411,5 +411,14 @@ Tips & Tricks
 
 어떻게 하면 더 좋은 코드를 만들까 하는 고민은 많이 하지만, 어떻게 하면 더 ㅂㅅ같은 코드를 만들까 하는 고민은 평소에 거의 해볼 기회가 없다. 이번 대회를 통해 매우 색다른 즐거움을 향유할 수 있는 기회를 제공해주신 스포카 여러분들께 감사드린다.
 
+그리고 다른 사람들이 작성한 흥미로운 코드도 있으니 한번 살펴보는걸 추천드린다.
+
+* [나는 예술 점수만 노린다](https://github.com/spoqa/spoqa-pycon-2016-obfuscation-contest/pull/16/files)
+* [누가 코드에 똥을 쌌어](https://github.com/spoqa/spoqa-pycon-2016-obfuscation-contest/pull/14/files)
+* [ㄱㅈㄱㅎㄲㅎㄷ](https://github.com/spoqa/spoqa-pycon-2016-obfuscation-contest/pull/13/files)
+* [정직한 프로그래머의 파서](https://github.com/spoqa/spoqa-pycon-2016-obfuscation-contest/pull/8/files)
+* [더 보기](https://github.com/spoqa/spoqa-pycon-2016-obfuscation-contest/pulls)
+
+
 [code]: https://github.com/spoqa/spoqa-pycon-2016-obfuscation-contest/pull/10/files
 [Kurtovic]: https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html
