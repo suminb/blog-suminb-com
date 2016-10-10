@@ -437,6 +437,15 @@ img.center {
   margin-right: auto;
 }
 
+img.float-left {
+  float: left;
+  margin-right: 1em;
+}
+img.float-right {
+  float: right;
+  margin-left: 1em;
+}
+
 p.license {
   font-size: 8pt;
 }
