@@ -24,7 +24,7 @@ author:
 
 ### 기내식
 
-비행기를 탈 때마다 느끼는 것이지만, 기내식은 두세가지 다른 종류의 식사를 섞어놓은 느낌이다. 이코노미석의 경우 기내식 메뉴 선택권이 매우 제한적이기 때문에 승객이 기내식을 매우 불만족스럽게 평가할 위험을 헤징(hedging)하기 위해서 그런 것이 아닐까 하는 생각이 들었다. 예를 들어서 메인 요리로 나온 비빔밥이 입맛에 맞지 않으면 사이드메뉴로 나온 빵에 버터를 발라서 먹거나 수박 샐러드를 먹으면서 허기를 채우라는 의미일수도 있다. 만약 이렇게 비빔밥과 어울리지 않아보이는 뜬금없는 사이드메뉴조차 제공되지 않은 상태에서 메인 요리가 입맛에 맞지 않을 경우 승객은 기내식을 포기하고 쫄쫄 굶을 가능성이 있기 때문에 그러한 상황을 미연에 방지하고자 함이 아닐까. 나중에 [Quora](http://quora.com)같은 곳에 이런 의문에 대한 질문을 올려봐도 재밌을 것 같다.
+비행기를 탈 때마다 느끼는 것이지만, 기내식은 두세가지 다른 종류의 식사를 섞어놓은 느낌이다. 이코노미석의 경우 기내식 메뉴 선택권이 매우 제한적이기 때문에 승객이 기내식을 매우 불만족스럽게 평가할 위험을 헤징(hedging)하기 위해서 그런 것이 아닐까 하는 생각이 들었다. 예를 들어서 메인 요리로 나온 비빔밥이 입맛에 맞지 않으면 사이드메뉴로 나온 빵에 버터를 발라서 먹거나 수박 샐러드를 먹으면서 허기를 채우라는 의미일수도 있다. 만약 이렇게 비빔밥과는 전혀 조화로워보이지 않는 뜬금없는 사이드메뉴조차 제공되지 않은 상태에서 메인 요리가 입맛에 맞지 않을 경우 승객은 기내식을 포기하고 쫄쫄 굶을 가능성이 있기 때문에 그러한 상황을 미연에 방지하고자 함이 아닐까. 나중에 [Quora](http://quora.com)같은 곳에 이런 의문에 대한 질문을 올려봐도 재밌을 것 같다.
 
 ### 호주에서의 운전 예습
 
@@ -48,18 +48,32 @@ author:
 
 > Exceeding the speed limit by 10km/h or so will usually result in you being sent a fine notice of around $200 (and demerit points if driving on an Australian licence). Exceeding the speed limit by more than 30km/h can result in a court appearance and possible criminal conviction.
 
-확실히 한국보다는 범법행위에 대한 대가가 혹독하구나. 조심해야겠다는 생각이 들었다.
+확실히 한국보다는 범법행위에 대한 대가가 혹독하구나.
 
-이걸 읽다보니 어느새 잘 시간이 되었다. 한숨 자고 일어나서 아침식사로 챙겨주는 기내식을 먹고 오전 7시 반 쯤에 시드니 공항에 도착했다.
+> When you are driving on Australia's open roads you may see dead animals on the side of the road. The fact is, quickly swerving or braking heavily could cause a much more serious accident. Dusk and sunrise are times to be on the alert through the Australian bush, as well as regions where you will encounter water sources like rivers and reservoirs, or the plains surrounding mountain ranges.
+>
+> If you come across multiple tyre marks on the road, this could suggest that animals regularly use this part of the road as a crossing, so just be a little more aware, and also, using the high beam head lights at night, will make it harder for an animal to find an appropriate escape route, so practice flicking them off for animals as well as for on coming traffic.
+
+다행스럽게도 아직까지 차로 동물을 쳐본적은 없지만, 만약 그런 일이 일어난다면 나에게도, 동물에게도, 차에게도 매우 좋지 않은 경험이 될테니 주의할 필요가 있어보인다.
+
+이걸 읽다보니 어느새 잘 시간이 되었다. 
+
+### 기내 응급 환자 발생
+
+쿨쿨 자고 있는데 내 앞자리에 부부로 보이는 승객 두 명과 승무원이 얘기하는 소리가 들렸다. 승무원이 어디론가 가더니 잠시 후에 기내 방송이 나왔다. 기내에 응급 환자가 발생했으니 승객 중에 의사가 있으면 승무원에게 얘기해달라는 내용이었다. 잠시 후에 의사 두 명이 와서 문진을 하고 다시 각자의 자리로 돌아갔다. 다행히 심각한 문제는 아닌 것 같았다.
+
+문득 이런 생각이 들었다. 기내에서 응급 환자가 발생했는데 외부 의료 기관의 도움이 필요한 상황이라면 당연히 가장 가까운 공항에 비상 착륙을 할 것이다. 그렇지만 이것으로 인해 발생한 비용은 항공사가 전부 부담하게 되는건지 궁금해졌다. 예를 들어서, 이륙한지 얼마 되지 않아서 착륙을 해야 한다면 착륙시 최대 무게를 맞추기 위해 상당량의 연료를 공중에 버려야 할 수도 있다. 그렇게 되면 목적지까지 비행을 재개하기 위해서 연료를 재구매 해야한다. 또한, 어떤 사정으로 인해 곧바로 이륙할 수 있는 상황이 아니라 승객들을 근처 호텔에서 하룻밤 재워야 한다면 숙박비와 교통비만 해도 꽤 큰 금액이 될 것이다. (혹시 이런것에 대비하여 항공사가 이용할 수 있는 보험 상품이 있을까?) 그리고 비상 착륙으로 인해 지연된 일정 때문에 누군가가 일생일대의 취직 면접 일정을 놓치거나 부모님의 임종을 지키지 못하는 상황이 발생했다면 그 사람은 어디에 가서 누구에게 보상받을 수 있을까? 아마도 자연재해로 인한 연착과 비슷하게 아무데서도 보상받을 수 없을 것이라 예상된다. 오해의 여지가 있을까봐 사족을 하나 달자면, 응급 환자가 발생했을 때 비상 착륙 없이 목적지까지의 비행을 강행해야 한다고 주장하고 싶은건 절대로 아니다. 당연히 환자를 살리는게 최우선이다.
+
+다시 한숨 자고 일어나서 아침식사로 챙겨주는 기내식을 먹고 오전 7시 반 쯤에 시드니 공항에 도착했다.
 
 
 시드니에 도착
 ---
 시드니 공항에서의 첫 인상은 미국 대도시의 공항과 비슷했다. 어떻게 보면 굉장히 평범했다. 인천공항처럼 새집 증후군(?)이 채 가시지 않은 새 공항도 아니었고, 라스베가스 공항처럼 비행기에서 내리자마자 번쩍번쩍한 슬롯머신들이 나를 반겨주는 특이한 공항도 아니었다.
 
-(TODO: 위아래 두 문단을 이어주는 문단을 작성하기)
+기내식을 모두 챙겨먹었음에도 불구하고 배가 고파서 일단 밥부터 먹기로 했다. 가장 먼저 눈에 띄는 맥도날드에 가서 밥을 먹었다. 식사를 하면서 인터넷에 연결하려고 했는데, 와이파이 상황이 매우 좋지 않았다. 공항에서 무료로 제공하는 와이파이를 이용하려고 하면 일단 매우 느리다. DHCP 서버로부터 IP 주소를 할당받은 후 웹 인터페이스를 통해 사용자 등록(아마도 MAC 주소 등록)을 하는 과정이 있는데, 그 과정을 여러번 시도했음에도 불구하고 한번도 성공하지 못했다. 다행히 맥도날드에서 제공하는 와이파이를 사용할 수 있었지만, 이건 30분 시간 제한이 있었다.
 
-쾌적한 여행을 위해 출발 전에 마련할 것들이 몇가지 있었다.
+짐을 가볍게 싼 덕분에 위탁 수화물로 보내지 않고 모두 기내 수화물로 가지고 올 수가 있었다. 수화물 찾는 곳에서 기다릴 필요 없이 바로 바깥으로 빠져나왔다. 그리고 쾌적한 여행을 위해 본격적으로 여행을 시작하기 전에 마련할 것들이 몇가지 있었다.
 
 ### 선불 심카드
 
@@ -130,7 +144,7 @@ SKT보다 훨씬 좋은데...?
 
 ### 생필품
 
-아이폰때문에 생각의 가지가 좀 멀리까지 뻗어 나갔었는데, 다시 여행 얘기로 돌아올 때이다. 사실, 별 생각 없이 애플 스토어 하나만 보고 온 쇼핑몰인데 안내 표지판을 보니 식료품점을 비롯해서 매우 다양한 상점들이 있었다. Coles라는 이름의 식료품점이 있어서 안쪽으로 들어가봤다. 넓은 공간에 다양한 농산물과 여러가지 포장식품들이 준비되어있었다.
+아이폰때문에 생각의 가지가 좀 멀리까지 뻗어 나갔었는데, 다시 여행 얘기로 돌아올 때이다. 사실, 별 생각 없이 애플 스토어 하나만 보고 온 쇼핑몰인데 안내 표지판을 보니 식료품점을 비롯해서 매우 다양한 상점들이 있었다. Coles라는 이름의 식료품점이 있어서 안쪽으로 들어가봤다. 넓은 공간에 다양한 농산물과 여러가지 포장식품들이 즐비했다. 내가 관심 있게 보는 품목들의 가격도 (한국과 비교하여) 대체적으로 저렴한 편이었다. 미국의 마트에서 느껴볼 수 있는 풍요로움을 여기서 다시 느껴보는구나.
 
 ![Coles](/attachments/2016/trip-to-australia/coles-broadway.jpg)
 
@@ -139,38 +153,47 @@ SKT보다 훨씬 좋은데...?
 
 ### 스마트폰 마운트
 
-<img src="http://www.belkin.com/images/productmt/892503/372.jpg" class="float-left" width="320">
+<img src="http://www.belkin.com/images/productmt/892503/372.jpg" class="float-right" width="320">
 
-네비게이션 장비를 따로 빌리지 않고 구글맵을 이용하기로 했다. 하지만 손에 폰을 들고 운전하는건 위험하기도 하고 일부 지역에서는 법적으로 금지된 사항이기도 해서 스마트폰 마운트를 하나 구입했다.
+네비게이션 장비를 따로 빌리지 않고 구글맵을 이용하기로 했다. 하지만 손에 폰을 들고 운전하는건 위험하기도 하고 일부 지역에서는 법적으로 금지된 사항이기도 해서 스마트폰 마운트를 하나 구입했다. 다음번에 차를 빌릴 때에는 세상이 조금 더 발전되어 있어서 코롤라 같은 보급형 자동차에도 속도와 엔진 회전수와 같은 전반적인 상태를 표시해주고 길 안내를 해줄 수 있는 [헤드-업 디스플레이(HUD)](http://www.carscoops.com/2011/11/bmw-colorful-head-up-display-technology.html)가 기본으로 장착되어있었으면 좋겠다.
 
 <div style="clear: both"></div>
 
 ### 점심식사
 
-<img src="/attachments/2016/trip-to-australia/grilld-broadway.jpg" class="float-left" width="320">
+<img src="/attachments/2016/trip-to-australia/grilld-broadway.jpg" class="float-right" width="320">
 
-점심식사는 몰 안에 있는 [Grill'd Healthy Burger](https://www.grilld.com.au/restaurants/new-south-wales/sydney/broadway)라는 곳에서 하게 되었다. 맛집 겁색을 해서 찾아간건 아니고 그냥 마음 내키는대로 걷다가 발견한 곳이었다.
+브로드웨이 몰 안을 한참 돌아다니다보니 맹렬한 허기가 찾아왔다. 기내식을 다 챙겨먹고 맥도날드에서 푸짐한 아침식사를 했는데도 말이다. 가끔은 뱃속에 기생충이 들어있는게 아닌가 하는 의심이 들 때가 있다. 점심식사는 몰 안에 있는 [Grill'd Healthy Burger](https://www.grilld.com.au/restaurants/new-south-wales/sydney/broadway)라는 곳에서 하게 되었다. 맛집 검색을 해서 찾아간건 아니고 그냥 마음 내키는대로 걷다가 발견한 곳이었다.
 
-식품의 열량을 표시하는 단위가 [kcal (킬로칼로리)](https://ko.wikipedia.org/wiki/%EC%B9%BC%EB%A1%9C%EB%A6%AC)가 아니라 [kJ (킬로줄)](https://ko.wikipedia.org/wiki/%EC%A4%84_(%EB%8B%A8%EC%9C%84))이라는 점이 매우 인상깊었다. 뒤의 단위를 보지 않고 숫자만 보았을 때에는 숫자가 매우 커서 당황스러울수도 있지만, [1,000kJ이 약 239kcal](https://www.google.co.kr/search?q=1000kj+to+kcal)이라는 것을 기억하면 좋을 듯 하다.
+식품의 열량을 표시하는 단위가 [kcal (킬로칼로리)](https://ko.wikipedia.org/wiki/%EC%B9%BC%EB%A1%9C%EB%A6%AC)가 아니라 [kJ (킬로줄)](https://ko.wikipedia.org/wiki/%EC%A4%84_(%EB%8B%A8%EC%9C%84))이라는 점이 매우 인상적이었다. 단위를 보지 않고 숫자만 보았을 때에는 숫자가 매우 커서 당황스러울수도 있지만, [1,000kJ이 약 239kcal](https://www.google.co.kr/search?q=1000kj+to+kcal)이라는 것을 기억하면 좋을 듯 하다.
 
 <div style="clear: both"></div>
 
 Drive to Port Macquarie
 ---
 
-원래 계획은 브리즈번까지 운전해서 가는거였지만, 밤샘 비행 후 피곤하기도 하고 점심을 시드니에서 먹고 출발해서 브리즈번까지 가면 숙소 체크인 시간이 너무 늦어질것 같아서 시드니에서 약 4시간 거리에 있는 Port Macquarie 라는 도시에서 하룻밤 묵어가기로 했다.
+원래 계획은 시드니에 도착한 첫날 브리즈번까지 운전해서 가는 것이었지만, 밤샘 비행 후 피곤하기도 하고 점심을 먹고 출발해서 브리즈번까지 가면 숙소 체크인 시간이 너무 늦어질것 같아서 시드니에서 약 4시간 거리에 있는 포트 맥쿼리(Port Macquarie)라는 도시에서 하룻밤 묵어가기로 했다. 포트 맥쿼리에 친구가 있는것도 아니고, 사전 조사를 해본것도 아니고 순전히 시드니에서 적당한 거리에 있고, 괜찮은 에어비앤비 숙소를 찾을 수 있어서 즉흥적으로 정한 목적지였다.
 
-(TODO: 지도를 보여주면서 얘기하면 더 좋을 듯)
+<a href="https://www.google.com/maps/dir/sydney/port+macquarie/@-32.6476269,150.6529576,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6b129838f39a743f:0x3017d681632a850!2m2!1d151.2092955!2d-33.8688197!1m5!1m1!1s0x6b9dff5c34ecc9c1:0x50609b490442e40!2m2!1d152.9!2d-31.433333!3e0" target="_blank">
+  <img src="/attachments/2016/trip-to-australia/sydney-to-port-macquarie.png" width="400">
+</a>
 
+10년 가까이 왼쪽 운전석에서 운전하다가 갑자기 오른쪽 운전석에서 운전 하려니까 차를 차선 중앙에 위치시키는 일이 꽤나 까다로웠다. 마치 타임머신을 타고 초보운전 시절로 돌아간것 같은 느낌이었다. 오른쪽 운전석에 조금 적응할만하니까 이번엔 비가 오기 시작했다. 사실, 아까 브로드웨이 몰에서 나왔을때부터 조금씩 비가 오고 있었긴 했지만 갑자기 빗줄기가 거세졌다. 빗물이 자동차 앞 유리를 때리는 소리가 예사롭지 않았다. (TODO: 영상 첨부하기) 그래도 나름 금방 적응했다. 역시 목숨이 달린 일이라 그런지 배우는 속도가 빨랐다.
 
-악천후 속에서의 운전
-난생 처음 가보는 곳, 처음 해보는 오른쪽 운전석 운전, 거기다가 악천후
+그렇게 4시간을 쉬지 않고 달려서 포트 맥쿼리에 도착했다. 에어비앤비 호스트의 집은 A1 고속도로에서 벗어나서 12km 정도 해안가 쪽으로 들어가야 하는 위치에 있었다. 아주 조용하고 깜깜한 주택가였다. 목적지에 도착하니 구글 지도에서 친절하게 스트릿 뷰를 보여주긴 했지만, 너무 깜깜해서 그걸로는 어느 집인지 식별하기 어려웠다. 도로 연석에 표시된 건물 번호를 보고 겨우 찾아갈 수 있었다.
 
-Amanda & Guy
+차를 세우고 현관문 벨을 누르니 '아만다'라는 이름의 친절한 중년 아주머니께서 나를 맞아주셨다. 저녁은 먹었는지, 근처에 괜찮은 레스토랑이 뭐가 있는지 얘기하다가 나한테 질문을 하셨다.
+
+A: 호주에 온지는 얼마나 됐어?  
+B: 음… 12시간이 채 되지 않았네요. 아침 7시 40분에 시드니 공항에 착륙해서 시드니에서 조금 놀다가 곧장 여기로 왔지요.  
+A: 오 가엾어라! (Oh, you poor thing) 내가 오믈렛이라도 만들어줄까? 그러면 다시 밖에 나가지 않아도 되니까.  
+B: 그렇다면 사양하지 않겠습니다. (Actually, that will be much appreciated)
+
+우와 이렇게 친절한 호스트라니! 첫 시작이 좋다.
 
 [^1]: 물론 평일 출퇴근 시간이 토요일 오후 다섯시쯤보다는 더 막힐 수도 있다. 하지만 평일에는 출퇴근 시간만 피하면 그럭저럭 다닐만한 경우도 많지만, 토요일엔 시간대에 관계 없이 항상 길이 막히는 경험을 할 수 있다.
-[^2]: [검찰 "다리찍은 몰카범 징역 가혹" 이색 항소… 법원, 벌금으로](http://www.yonhapnews.co.kr/bulletin/2016/06/23/0200000000AKR20160623135200055.HTML>
+[^2]: [검찰 "다리찍은 몰카범 징역 가혹" 이색 항소... 법원, 벌금으로](http://www.yonhapnews.co.kr/bulletin/2016/06/23/0200000000AKR20160623135200055.HTML)
 [^3]: [제주 몰카 동영상 촬영 유포자 징역 2년 선고](http://www.hyundaenews.com/sub_read.html?uid=19078)
-[^4]: [여성 승객 104명 몰카 촬영한 택시기사 징역 1년]( http://news.sbs.co.kr/news/endPage.do?news_id=N1003240530&plink=COPYPASTE&cooper=SBSNEWSEND)
-[^icn-syd]: <https://www.world-airport-codes.com/distance/?a1=icn&a2=syd>
-[^rental-cars]: <http://www.autoguide.com/auto-news/2013/03/should-i-buy-a-used-car-that-was-a-rental.html>
+[^4]: [여성 승객 104명 몰카 촬영한 택시기사 징역 1년](http://news.sbs.co.kr/news/endPage.do?news_id=N1003240530&plink=COPYPASTE&cooper=SBSNEWSEND)
+[^icn-syd]: [Distance between ICN and SYD](https://www.world-airport-codes.com/distance/?a1=icn&a2=syd)
+[^rental-cars]: [Under the Hood: Should I Buy a Rental Car?](http://www.autoguide.com/auto-news/2013/03/should-i-buy-a-used-car-that-was-a-rental.html)
