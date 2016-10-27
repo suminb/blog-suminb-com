@@ -20,6 +20,9 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/57/
+redirect_to:
+  - http://philosophical.one/post/memory-allocation
+
 ---
 응용프로그램이 사용하는 메모리 영역은 크게 스택(stack)과 힙(heap)으로 나눌 수 있다.
 
