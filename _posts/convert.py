@@ -66,6 +66,10 @@ def basename_without_extension(full_path):
     return os.path.extsep.join(os.path.splitext(basename)[:-1])
 
 
+def replace_crnl_with_nl(text):
+    return text.replace('\r\n', '\n')
+
+
 def migrate1():
     source_file_name = sys.argv[1]
     source_file_name_noext = os.path.splitext(source_file_name)[0]
@@ -83,6 +87,7 @@ def migrate2():
     filename = sys.argv[1]
 
     content = read_file(filename)
+    content = replace_crnl_with_nl(content)
     content = insert_redirect_to_predicate(content, filename)
 
     tmp_path = '/tmp/tmp.md'
