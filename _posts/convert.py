@@ -40,7 +40,7 @@ redirect_from:
 
 
 def insert_redirect_to_predicate(text, filename):
-    index = text.find('\n---\n', 3)
+    index = text.find('\n---\n', 10)
 
     prefix = text[:index]
     suffix = text[index:]
@@ -83,11 +83,11 @@ def migrate2():
     filename = sys.argv[1]
 
     content = read_file(filename)
-    content = replace_html_tags(content)
     content = insert_redirect_to_predicate(content, filename)
 
-    # Print to the standard output
-    print(content)
+    tmp_path = '/tmp/tmp.md'
+    write_file(tmp_path, content)
+    os.rename(tmp_path, filename)
 
 
 if __name__ == '__main__':
