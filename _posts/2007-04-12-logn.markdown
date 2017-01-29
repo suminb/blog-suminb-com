@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/597/
+redirect_to:
+  - http://philosophical.one/post/logn
 ---
 CS345 이번 과제는 여러가지 해시 알고리즘을 직접 구현하는것이었다.
 

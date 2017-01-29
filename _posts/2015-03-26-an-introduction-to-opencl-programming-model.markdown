@@ -10,6 +10,8 @@ author:
   email: suminb@gmail.com
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/an-introduction-to-opencl-programming-model
 ---
 
 This paper nicely outlines the basic concepts of general purpose GPU programming with OpenCL. This article will summarize some of the important concepts.

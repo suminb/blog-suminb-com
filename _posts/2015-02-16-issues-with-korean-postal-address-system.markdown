@@ -12,6 +12,8 @@ author:
   email: suminb@gmail.com
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/issues-with-korean-postal-address-system
 ---
 
 도로명 주소는 한국 정부가 (언제)부터 야심차기 준비해서 (언제) 전면 실행에 옮긴 대한민국의 새로운 주소 체계이다.

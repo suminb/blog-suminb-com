@@ -16,6 +16,8 @@ author:
   display_name: Sumin
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/raspberry-pi-gpio
 ---
 
 주말을 알차게 보내기 위해 초간단 프로젝트를 준비해보았다. 바로 라즈베리 파이의 GPIO 핀을 이용해서 코드상에서 LED를 켜고 끌 수 있게 만드는 것.

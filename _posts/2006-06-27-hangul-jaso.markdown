@@ -22,6 +22,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/353/
+redirect_to:
+  - http://philosophical.one/post/hangul-jaso
 ---
 [link1]: http://mwultong.blogspot.com/2006/03/perl.html "[Perl/펄] 한글 자소 분리: '똠방각하'를 'ㄸㅗㅁㅂㅏㅇㄱㅏㄱㅎㅏ'로 자동 변환"
 

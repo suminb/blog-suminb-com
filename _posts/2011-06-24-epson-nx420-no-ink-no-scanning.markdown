@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1501/
+redirect_to:
+  - http://philosophical.one/post/epson-nx420-no-ink-no-scanning
 ---
 I know I complain a lot for everything, but I really think this is worth complaining.
 

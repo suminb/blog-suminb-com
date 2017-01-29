@@ -10,6 +10,8 @@ author:
   email: suminb@gmail.com
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/penthouse
 ---
 
 이 글을 읽기 전에 일단 관련 기사문을 먼저 읽어보자. ['95억'...삼성동 아이파크 펜트하우스, 역대 최고 감정가 공매로 나와](http://land.hankyung.com/news/app/newsview.php?aid=2016010116881)

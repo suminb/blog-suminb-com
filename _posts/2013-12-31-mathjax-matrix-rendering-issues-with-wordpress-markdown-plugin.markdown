@@ -23,6 +23,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1920/
+redirect_to:
+  - http://philosophical.one/post/mathjax-matrix-rendering-issues-with-wordpress-markdown-plugin
 ---
 Problem
 -------

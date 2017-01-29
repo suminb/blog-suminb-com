@@ -21,6 +21,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1196/
+redirect_to:
+  - http://philosophical.one/post/finding-gram-matrix
 ---
 Matrix manipulation by hand is often times pain in the neck when it comes to anything bigger than 2 by 2 matrices as it involves a quite amount of arithmetic operations. Well, I've got an Intel Core 2 Duo processor and Python. No reason not to take advantage of them ;-)
 

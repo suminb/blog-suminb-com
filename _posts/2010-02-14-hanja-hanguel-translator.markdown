@@ -22,6 +22,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1230/
+redirect_to:
+  - http://philosophical.one/post/hanja-hanguel-translator
 ---
 [한자-한글 변환기][link] (<http://hanja.suminb.com>)
 

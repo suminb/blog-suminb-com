@@ -10,6 +10,8 @@ author:
   email: suminb@gmail.com
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/salary-war
 ---
 
 <img src="http://image.yes24.com/goods/7539231/M" alt="월급전쟁" class="center"/>

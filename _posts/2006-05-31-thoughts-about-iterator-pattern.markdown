@@ -22,6 +22,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/306/
+redirect_to:
+  - http://philosophical.one/post/thoughts-about-iterator-pattern
 ---
 # 서론
 

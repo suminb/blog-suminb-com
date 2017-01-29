@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/310/
+redirect_to:
+  - http://philosophical.one/post/exccesive-constants
 ---
 서론
 ----

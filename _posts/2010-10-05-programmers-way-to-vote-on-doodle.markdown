@@ -25,6 +25,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1327/
+redirect_to:
+  - http://philosophical.one/post/programmers-way-to-vote-on-doodle
 ---
 [Doodle](http://doodle.com) is a great tool for organizing meetings and scheduling events, especially when attendees have largely different schedules.
 

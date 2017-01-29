@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/558/
+redirect_to:
+  - http://philosophical.one/post/base62
 ---
 필요하신 분은 가져다 쓰세요.
 

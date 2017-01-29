@@ -22,6 +22,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1222/
+redirect_to:
+  - http://philosophical.one/post/programming-contest-4-function-calculator
 ---
 Today's programming contest, sponsored by Jude Nelson, was to make a 4-function calculator using PyMT. There were some extra credits for additional features such as support for trigonometric functions, parenthesis for changing orders of operations, and so on.
 

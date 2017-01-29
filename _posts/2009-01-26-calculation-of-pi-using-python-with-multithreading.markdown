@@ -22,6 +22,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/911/
+redirect_to:
+  - http://philosophical.one/post/calculation-of-pi-using-python-with-multithreading
 ---
 So, I made another version of PI calculation code with multithreading, expecting faster calculations since my MacBook has two processor cores. However, it works slower than the sequential version. I don't know wtf is going on.
 

@@ -13,6 +13,10 @@ author:
   email: suminb@gmail.com
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/opencl-on-ec2-gpu-instance
+redirect_to:
+  - http://philosophical.one/post/opencl-on-ec2-gpu-instance
 ---
 
 아마존 EC2 GPU 인스턴스에서 OpenCL 실행 환경을 구축하면서 해결한 문제들을 정리해보았다.

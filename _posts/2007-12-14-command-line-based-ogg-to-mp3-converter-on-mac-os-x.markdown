@@ -23,6 +23,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/693/
+redirect_to:
+  - http://philosophical.one/post/command-line-based-ogg-to-mp3-converter-on-mac-os-x
 ---
 First of all, you need to install `vorbis-tools` and `lame`, assuming you have [MacPorts](http://www.macports.org/) installed. If you're using some other package management system, that's fine. Go ahead and install these two packages. If you don't have any, you can always manually install it.
 

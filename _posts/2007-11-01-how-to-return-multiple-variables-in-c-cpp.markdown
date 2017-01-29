@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/683/
+redirect_to:
+  - http://philosophical.one/post/how-to-return-multiple-variables-in-c-cpp
 ---
 There are several ways to get multiple variables from a function in C/C++. Remember C is a pass-by-value language and there is no exception.
 

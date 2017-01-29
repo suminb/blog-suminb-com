@@ -13,6 +13,8 @@ author:
   email: suminb@gmail.com
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/goodbye-wordpress-hello-jekyll
 ---
 
 지금으로부터 약 10년전인 2004년부터 설치형 [WordPress][]를 사용해서 개인 블로그를 운영하고 있었는데, 이번에 [Jekyll][]을 사용해서 블로그를 만들어보기로 했다. Jekyll은 HTML이나 Markdown 등의 서식으로 작성된 문서들로 정적 웹사이트를 생성해주는 도구다. WordPress 대신 Jekyll을 선택한 이유는

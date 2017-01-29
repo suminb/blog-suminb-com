@@ -29,6 +29,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1388/
+redirect_to:
+  - http://philosophical.one/post/the-country-that-killed-wal-mart
 ---
 Note: This is a trackback post to <http://seoulspace.co.kr/2011/01/28/the-country-that-killed-wal-mart>
 

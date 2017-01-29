@@ -21,6 +21,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1811/
+redirect_to:
+  - http://philosophical.one/post/thoughts-about-computer-science-2
 ---
 시작하기 전에 만화를 한 편 보자.
 

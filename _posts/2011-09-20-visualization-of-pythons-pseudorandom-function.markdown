@@ -23,6 +23,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1524/
+redirect_to:
+  - http://philosophical.one/post/visualization-of-pythons-pseudorandom-function
 ---
 <img src="http://blog.suminb.com/wp-content/uploads/2011/09/random.png" alt="" title="random" width="400" height="400" class="aligncenter size-full wp-image-1529" />
 

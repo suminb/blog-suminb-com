@@ -16,6 +16,8 @@ author:
   display_name: Sumin
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/dreams-come-true
 ---
 예전에 페이스북 타임라인에 올렸던 글이다.
 

@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1236/
+redirect_to:
+  - http://philosophical.one/post/python-ternary-operator
 ---
 I've been using a tuple as a substitution of a ternary operator in Python. Even though it is not exactly a ternary operator and has some drawbacks, but it works fine in most cases.
 

@@ -22,6 +22,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1007/
+redirect_to:
+  - http://philosophical.one/post/grocery-store-club-card-imitation
 ---
 Introduction
 ------------

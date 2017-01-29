@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/378/
+redirect_to:
+  - http://philosophical.one/post/selectquery
 ---
 홍민희군과의 대화 중 아이디어를 얻어 이것을 만들게 되었다.
 

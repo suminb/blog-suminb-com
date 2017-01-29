@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/614/
+redirect_to:
+  - http://philosophical.one/post/longest-common-subsequence
 ---
 오... 완전 신기>_ <
 

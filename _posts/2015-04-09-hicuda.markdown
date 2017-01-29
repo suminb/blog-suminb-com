@@ -10,6 +10,8 @@ author:
   email: suminb@gmail.com
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/hicuda
 ---
 
 Basic Concept

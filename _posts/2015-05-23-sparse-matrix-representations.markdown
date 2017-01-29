@@ -12,6 +12,8 @@ author:
   email: suminb@gmail.com
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/sparse-matrix-representations
 ---
 
 [올해 NDC 에서 OpenCL 과 행렬 연산의 응용을 주제로 발표](http://www.slideshare.net/suminb/durango-opencl)를 했는데, 발표 후 질문 답변 시간에 나왔던 질문중 하나가

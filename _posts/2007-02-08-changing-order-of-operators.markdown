@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/552/
+redirect_to:
+  - http://philosophical.one/post/changing-order-of-operators
 ---
 오랜만에 블로그 제목에 어울리는 포스트를 하나 올리겠다.
 

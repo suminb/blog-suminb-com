@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/420/
+redirect_to:
+  - http://philosophical.one/post/linux-system-in-danger
 ---
 <img id="image419" src="http://blog.suminb.com/wp-content/uploads/2006/12/SSL13620.jpg" alt="SSL13620.jpg" height="384" width="512" />
 

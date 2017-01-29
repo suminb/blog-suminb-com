@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/555/
+redirect_to:
+  - http://philosophical.one/post/my-first-assembly-program
 ---
 ~~~
 .data

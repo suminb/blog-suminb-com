@@ -21,6 +21,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/375/
+redirect_to:
+  - http://philosophical.one/post/hangul-syllable-manipulation
 ---
 # 서론
 

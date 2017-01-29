@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/136/
+redirect_to:
+  - http://philosophical.one/post/object-serialization
 ---
 Source Code
 -----------

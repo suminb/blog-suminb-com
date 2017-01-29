@@ -21,6 +21,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/894/
+redirect_to:
+  - http://philosophical.one/post/getting-the-value-of-pi-using-python
 ---
 I barely started using Python today. I made a piece of code that calculates the value of PI for practice. You're welcome to criticize, but *politely*, my first ever Python code.
 

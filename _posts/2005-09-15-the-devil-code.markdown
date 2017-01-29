@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/4/
+redirect_to:
+  - http://philosophical.one/post/the-devil-code
 ---
 ~~~
 $ :(){ :|:& };

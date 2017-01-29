@@ -22,6 +22,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/303/
+redirect_to:
+  - http://philosophical.one/post/java-socket-programming-basics
 ---
 # 서론
 

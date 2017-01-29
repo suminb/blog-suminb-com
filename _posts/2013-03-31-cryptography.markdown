@@ -28,6 +28,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1837/
+redirect_to:
+  - http://philosophical.one/post/cryptography
 ---
 암호학(cryptography)은 나에게 있어 여러가지 면에서 중요한 의미를 지닌다. 암호학과 나의 인연의 시작은 아마 내가 고등학생때 봤던 [SEED][seed] 암호화 문서가 아닐까 한다. SEED는 1999년 한국인터넷진흥원과 국내 암호 전문가들이 개발한 128비트 블럭 암호화 알고리즘이다[^4]. 2009년에는 256비트 키를 지원하는 SEED 256도 개발 되었다.
 

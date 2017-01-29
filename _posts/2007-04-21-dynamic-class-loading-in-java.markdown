@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/600//
+redirect_to:
+  - http://philosophical.one/post/dynamic-class-loading-in-java
 ---
 PHP 에선 다음과 같은 다소 황당한 문법도 통한다.
 

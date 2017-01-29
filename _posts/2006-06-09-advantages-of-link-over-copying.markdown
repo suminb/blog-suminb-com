@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/336/
+redirect_to:
+  - http://philosophical.one/post/advantages-of-link-over-copying
 ---
 [이 글](http://www.hof.pe.kr/wp/archives/1880)을 읽고 생각나는게 있어서 포스트를 하나 써봤습니다.
 

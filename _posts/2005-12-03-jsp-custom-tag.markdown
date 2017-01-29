@@ -18,6 +18,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/71/
+redirect_to:
+  - http://philosophical.one/post/jsp-custom-tag
 ---
 ###### /WEB-INF/tlds/iterator.tld
 

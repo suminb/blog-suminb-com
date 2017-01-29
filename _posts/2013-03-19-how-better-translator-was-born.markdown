@@ -24,6 +24,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1792/
+redirect_to:
+  - http://philosophical.one/post/how-better-translator-was-born
 ---
 2013년 2월 어느 평화로운 토요일 오후. 하라는 숙제는 안 하고 방구석에서 빈둥빈둥 하던 대학원생 B군은 페이스북에서 재미있는 스크린샷을 발견하게 된다. 구글 번역기를 이용해서 한국어를 영어로 번역할 때, 직접 번역하는것 보다는 일본어를 거쳐서 번역하면 더 좋은 결과물이 나온다는 내용이었다.
 

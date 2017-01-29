@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/425/
+redirect_to:
+  - http://philosophical.one/post/delegating-math-homework-to-computer
 ---
 > Consider the differential equation
 >

@@ -17,6 +17,8 @@ author:
   display_name: Sumin
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/crisis-of-better-translator
 ---
 [더 나은 번역기][btr] 장사 망할뻔 했다.
 

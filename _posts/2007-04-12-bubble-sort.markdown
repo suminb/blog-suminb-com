@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/598/
+redirect_to:
+  - http://philosophical.one/post/bubble-sort
 ---
 ### Bubble Sort (Ascending Order)
 

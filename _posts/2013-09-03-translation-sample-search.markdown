@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1889/
+redirect_to:
+  - http://philosophical.one/post/translation-sample-search
 ---
 One of the goals of [Better Translator][better-translator] is to build a large database of natural language translation samples, which may ultimately lead us to develop our own translation engine rather than relying on Google Translate.
 

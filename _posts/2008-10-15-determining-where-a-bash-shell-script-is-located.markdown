@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/701/
+redirect_to:
+  - http://philosophical.one/post/determining-where-a-bash-shell-script-is-located
 ---
 I just figured this out today.
 

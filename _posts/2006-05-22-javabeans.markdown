@@ -20,6 +20,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/301/
+redirect_to:
+  - http://philosophical.one/post/javabeans
 ---
 # What are JavaBeans? #
 JavaBeans are software components written in the Java programming language. Well, this kind of explanation probably would not be helpful.

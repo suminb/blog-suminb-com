@@ -21,6 +21,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/300/
+redirect_to:
+  - http://philosophical.one/post/convert-from-javautildate-to-javasqldate
 ---
 # Content #
 

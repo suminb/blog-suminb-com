@@ -19,6 +19,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1883/
+redirect_to:
+  - http://philosophical.one/post/packet-corruption
 ---
 I encountered a very strange error message that I have never come across before. I was transferring a large file (a few gigabytes) from a computer to another using `rsync`.
 

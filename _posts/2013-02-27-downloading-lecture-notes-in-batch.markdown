@@ -26,6 +26,8 @@ author:
   last_name: Byeon
 redirect_from:
   - /archives/1729/
+redirect_to:
+  - http://philosophical.one/post/downloading-lecture-notes-in-batch
 ---
 Imagine you have about 25 lecture notes to download. The files are in a PDF format and the links are available on your class web site. What would you do?
 

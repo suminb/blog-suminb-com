@@ -19,6 +19,8 @@ author:
   display_name: Sumin
   first_name: Sumin
   last_name: Byeon
+redirect_to:
+  - http://philosophical.one/post/double-ssh-tunneling
 ---
 This is just a self-reminder.
 
